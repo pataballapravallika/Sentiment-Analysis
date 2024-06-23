@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 os.chdir("C://Users//hp//Downloads")
-data = pd.read_csv('Reviews(1).csv')
+data = pd.read_csv('Reviews.csv')
 data
 data.head()
 data.tail()
