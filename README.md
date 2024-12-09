@@ -27,7 +27,7 @@ venv\Scripts\activate     # For Windows
 Install the dependencies:
 pip install -r requirements.txt  
 # Dataset
-The dataset used in this project contains restaurant reviews labeled as positive or negative. You can add your dataset in the data/ folder. Ensure it follows the structure:
+The dataset used in this project contains restaurant reviews labeled as positive or negative. You can add your dataset in the reviews.csv . Ensure it follows the structure:
 Review	Sentiment
 The food was great!	Positive
 Service was terrible.	Negative
