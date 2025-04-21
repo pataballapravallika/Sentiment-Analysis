@@ -95,6 +95,7 @@ Output: The review is predicted positive
  ## 📈 Sample Output
  Accuracy: 0.85
 Classification Report:
+  ```bash
               precision    recall  f1-score   support
 
            0       0.84      0.87      0.85       203
@@ -106,10 +107,6 @@ weighted avg       0.85      0.85      0.85       400
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-yaml
-Copy
-Edit
-
----
+  ```bash
 
 Let me know if you'd like a separate `preprocess_review()` function definition to include in your script or need a `requirements.txt` file too!
